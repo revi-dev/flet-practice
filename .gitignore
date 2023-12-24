@@ -1,0 +1,15 @@
+data/*
+!data/.gitkeep
+models/*
+!models/README.md
+outputs/*
+!outputs/.gitkeep
+lightning_logs/
+__pycache__
+.coverage
+.mypy_cache
+.pytest_cache
+.venv
+*.env
+*.code-workspace
+*.lock

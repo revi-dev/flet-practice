@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "flet-practice"
+version = "0.1.0"
+description = ""
+authors = ["Your Name"]
+
+
+[tool.poetry.dependencies]
+python = ">=3.10, <4.0"
+flet = "*"
+matplotlib = "*"
+numpy = "*"
+pillow = "*"
+polars = "*"
+pyyaml = "*"
+scipy = "*"
+tqdm = "*"
+
+
+[tool.poetry.group.dev.dependencies]
+autopep8 = "*"
