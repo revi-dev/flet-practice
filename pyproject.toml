@@ -8,9 +8,12 @@ authors = ["Your Name"]
 [tool.poetry.dependencies]
 python = ">=3.10, <4.0"
 flet = "*"
+kaleido = "=0.2.1"
 matplotlib = "*"
 numpy = "*"
+pandas = "*"
 pillow = "*"
+plotly = "*"
 polars = "*"
 pyyaml = "*"
 scipy = "*"
